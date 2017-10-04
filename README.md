@@ -1,0 +1,2 @@
+# ChatCoin
+Ethereum Smart Contract
